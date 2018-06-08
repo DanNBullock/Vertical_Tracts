@@ -33,7 +33,7 @@ function bsc_multiPlotData_v3(meanDataMatrix,stdDataMatrix,fiberNames,dataType,S
 
 
 
-meanVec,stdVec,results.AFQstats.classification.names(tractsOfInterest),meanFields{iplots},SaveDir,[],groupmap
+%meanVec,stdVec,results.AFQstats.classification.names(tractsOfInterest),meanFields{iplots},SaveDir,[],groupmap
 
 
 
